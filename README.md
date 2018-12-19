@@ -9,7 +9,7 @@ rofi -combi-modi flatpak,drun -show combi -modi combi,flatpak:/path/to/rofi-flat
 
 Otherwise just:
 ```
-rofi flatpak -show -modi flatpak:/path/to/rofi-flatpack.sh 
+rofi -show flatpak -modi flatpak:/path/to/rofi-flatpack.sh 
 ```
 
 ### TODO
